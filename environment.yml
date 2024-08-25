@@ -5,3 +5,5 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - keras 
+  # HK_0826_try_pre_installing_packages
