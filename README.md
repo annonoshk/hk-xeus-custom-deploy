@@ -2,11 +2,13 @@
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/xeus-python-demo/notebooks/?path=demo.ipynb)
 
-xeus-python + JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+xeus-python + JupyterLite deployed as a static site to GitHub Pages, for test and feasibility purposes for linking Jypyterlab and external applications.
 
 ## ✨ Try it in your browser ✨
 
-https://jupyterlite.github.io/xeus-python-demo/notebooks/?path=demo.ipynb
+https://annonoshk.github.io/ju-xeus-custom-deploy/
+
+## https://jupyterlite.github.io/xeus-python-demo/notebooks/?path=demo.ipynb
 
 ## ≠ How does it compare to the Pyodide kernel?
 
