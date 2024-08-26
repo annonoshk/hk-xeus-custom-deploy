@@ -18,5 +18,4 @@ dependencies:
   - xeus-python
   - xeus-lua
   - xeus-sqlite
-  - jupyterlite-pyodide-kernel
   - numpy
