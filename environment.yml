@@ -9,7 +9,7 @@ dependencies:
   - matplotlib
   - keras
   #HK_0826_add_3_packages_for_pre-installing_test
-  
+
 name: xeus-lite-wasm
 channels:
   - https://repo.mamba.pm/emscripten-forge
@@ -18,4 +18,5 @@ dependencies:
   - xeus-python
   - xeus-lua
   - xeus-sqlite
+  - jupyterlite-pyodide-kernel
   - numpy
