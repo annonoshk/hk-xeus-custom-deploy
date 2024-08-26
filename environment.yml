@@ -5,4 +5,8 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - numpy
+  - matplotlib
+  - keras 
+  #HK_0826_add_3_packages_for_pre-installing_test
 
