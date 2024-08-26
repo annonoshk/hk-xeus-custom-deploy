@@ -8,6 +8,5 @@ dependencies:
   - numpy
   - matplotlib
   - keras
-  - tensorflow 
   #HK_0826_add_3_packages_for_pre-installing_test
 
