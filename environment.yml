@@ -6,4 +6,6 @@ dependencies:
   - xeus-python
   - ipycanvas
   - keras 
+  - numpy
+  - matplotlib
   # HK_0826_try_pre_installing_packages
