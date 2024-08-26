@@ -16,6 +16,8 @@ channels:
   - conda-forge
 dependencies:
   - xeus-python
+  - ipycanvas
   - xeus-lua
   - xeus-sqlite
   - numpy
+  - pandas
