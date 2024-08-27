@@ -21,3 +21,5 @@ dependencies:
   - xeus-sqlite
   - numpy
   - pandas
+  - zope.interface #HK_0827_ADD_BA_PACKAGES_START
+  - zipp
